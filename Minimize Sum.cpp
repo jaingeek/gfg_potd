@@ -34,3 +34,4 @@ int main(){
           cout<<ob.minimzeSum(n,arr)<<" ";
         }
         return 0;
+}
